@@ -1,0 +1,6 @@
+arruma o habitado em: do mobview
+arruma db de mapas e tempo de monstros
+arruma db de mvp ou miniboss
+arruma ataca media dos monstros mob view( e free, hit e estilo tbm)
+arruma tempo de respaw dos mobs no habita em
+arruma descrição de todos os itens

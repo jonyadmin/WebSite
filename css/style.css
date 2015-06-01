@@ -1,0 +1,144 @@
+* { margin: 0; padding: 0;}
+#menu {
+margin:0;
+padding:0;
+}
+#menu ul{
+margin:0;
+padding:0;
+line-height:30px;
+
+}
+#menu li{
+margin:0;
+padding:0;
+list-style: none;
+float:left;
+position:relative;
+}
+#menu ul li a {
+ text-decoration:none;
+ display:block;
+ width:126px;
+ color:#fff;
+ border-bottom:1px groove #666;
+ height:30px;
+}
+
+#menu ul ul {
+ margin-top:23px;
+position:absolute;
+visibility:hidden;
+top:30px;
+background:#0B610B;
+}
+#menu ul li:hover ul {
+ visibility:visible;
+  z-index: 1000;
+  
+}
+#menu ul li:hover {
+ background:#31B404;
+}
+#menu1 ul li a {
+ text-decoration:none;
+ display:block;
+ width:125px;
+ color:#fff;
+ border-bottom:1px groove #666;
+ border-left:3px solid #444;
+ height:30px;
+}
+
+#menu1 ul li:hover a{
+ border-left:3px solid #fff;
+}
+#menu2 ul li a {
+ text-decoration:none;
+ display:block;
+ width:145px;
+ border-left:3px solid #444;
+ color:#fff;
+ border-bottom:1px groove #666;
+ height:30px;
+}
+#menu2 ul li:hover a{
+ border-left:3px solid #fff;
+}
+#menu3 ul li a {
+ text-decoration:none;
+ display:block;
+ width:120px;
+ border-left:3px solid #444;
+ color:#fff;
+ border-bottom:1px groove #666;
+ height:30px;
+}
+#menu3 ul li:hover a{
+ border-left:3px solid #fff;
+}
+#menu4 ul li a {
+ text-decoration:none;
+ display:block;
+ width:105px;
+ color:#fff;
+ border-bottom:1px groove #666;
+ border-left:3px solid #444;
+ height:30px;
+}
+
+#menu4 ul li:hover a{
+ border-left:3px solid #fff;
+}
+#menu5 ul li a {
+ text-decoration:none;
+ display:block;
+ width:128px;
+ color:#fff;
+ border-bottom:1px groove #666;
+ border-left:3px solid #444;
+ height:30px;
+}
+
+#menu5 ul li:hover a{
+ border-left:3px solid #fff;
+}
+#login {
+background:#f8f8f8; 
+border:2px solid #ccc;
+border-radius:4px;
+}
+
+#enter input[type=submit]:hover{
+        background:#00BFFF;
+        color:#ffffff;
+		cursor:pointer;
+}
+#table {
+margin-top:5px; 
+margin-left:5px;
+}
+#resultado {
+margin-left:5px;
+}
+#menupainel {
+margin: 0;
+padding: 0;
+float:left;
+margin-left:-10px;
+}
+#menupainel li {
+list-style:none;
+background: #1f5d86;
+width:150px;
+height:20px;
+border-bottom: 1px solid #666;
+}
+#menupainel li a {
+display:block;
+padding:4px;
+border-left: 3px solid #444;
+text-decoration:none;
+color:#fff;
+box-shadow: 2px 2px 5px #ccc;
+}
